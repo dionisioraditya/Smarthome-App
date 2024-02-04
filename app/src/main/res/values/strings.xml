@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Smart Home</string>
+    <string name="header_dashboard">Welcome!</string>
+    <string name="diagram_text">25° Celsius</string>
+    <string name="switch_btn_temperature">Temperature</string>
+    <string name="switch_btn_humidity">Humidity</string>
+    <string name="switch_btn_ac">Air conditioner</string>
+    <string name="switch_btn_lamp">Lamp</string>
+    <string name="lamp">Lamp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="new_account">Don\'t have an account? Sign Up!</string>
+    <string name="sign_up_title">Sign up</string>
+    <string name="re_type_pass">Retype password</string>
+    <string name="name">Name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Temperature</string>
+    <string name="tab_text_2">Humidity</string>
+    <string name="relay">relay</string>
+    <string name="developer_name">Develop by @diordty</string>
+</resources>
